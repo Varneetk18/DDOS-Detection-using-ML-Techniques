@@ -1,0 +1,12 @@
+fastapi
+numpy
+pandas
+jinja2
+uvicorn
+scikit-learn
+scapy
+matplotlib
+seaborn
+joblib
+flask
+pywin32
